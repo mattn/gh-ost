@@ -16,7 +16,7 @@ gh extension install mattn/gh-ost
 
 ## Screenshot
 
-![Screenshot](./docs/images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/mattn/gh-ost/main/screenshot.png)
 
 ## License
 
